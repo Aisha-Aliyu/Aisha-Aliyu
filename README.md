@@ -4,18 +4,18 @@
 
 ---
 
-## 🎓 Education
+## Education
 - **B.Sc. (Hons) Software Engineering** - First Class Honours | CGPA: 3.52/4.0
 - **Key Achievements:** A+ grades in AI, Algorithm Design, Database Systems, and Software Metrics
 - **Final Year Project:** Buddy AI - AI-powered mental health assistant (Grade: A+, Usability Score: 4.7/5.0)
 
-## 💼 Professional Experience
+## Professional Experience
 - **Software Engineer** at Amana Solutions and Technologies (Dec 2024 - Present)
 - **Full-Stack & Frontend Engineer** - Freelance (Feb 2024 - Present)
 - **Software Engineering Intern** at NCAIR, NITDA (Feb - Jul 2023)
 - **Freelance Web Developer** (Jan 2022 - Present)
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Languages & Fundamentals
 JavaScript (ES6+) • TypeScript • Python • PHP • HTML5 • CSS3
@@ -38,29 +38,25 @@ OpenAI API • Stripe • HubSpot CRM • Third-Party SaaS Platforms
 ### Specializations
 Core Web Vitals • Lighthouse Optimization • SSR/SSG • Query Optimization • Database Design • Agile & Scrum
 
-## 🚀 Featured Projects
+## Featured Projects
 
-**AI Chat App** - Next.js 14, React, Firebase, OpenAI GPT-4o-mini, Tailwind CSS
-- Real-time full-stack chat platform with group rooms, file uploads, emoji reactions, and AI-powered conversations
-- Firebase Authentication and Firestore with live data sync • Deployed to Vercel
+### AuthKit
+An authentication toolkit for developing secure applications.
 
-**Elan Royale** - Next.js 14, TypeScript, Prisma ORM, PostgreSQL, Tailwind CSS
-- Full-stack restaurant reservation platform with server-side rendering and dynamic menu pages
-- Optimized Core Web Vitals using SSR and SSG via Next.js App Router
+### STRATUM (iot-dashboard)
+An IoT dashboard for monitoring and managing your devices.
 
-**Modern Data Dashboard** - Python, Flask, JavaScript, Chart.js, JWT, Pandas, ReportLab
-- Full-stack analytics dashboard with JWT-protected routes, multi-dimensional data filtering
-- One-click export to CSV, Excel, and PDF with automated weekly email reports
+### DRIFT (drift-browser-shell)
+A browser shell for enhanced navigation and task management.
 
-**Accessible Blog Platform** - Next.js 14, TypeScript, Tailwind CSS, MDX
-- WCAG 2.1 AA compliant blog with semantic HTML5, keyboard navigation, and ARIA landmarks
-- High Lighthouse accessibility and performance scores
+### Cocoa WebCam Studio (Webcam)
+A studio application for webcam management and streaming.
 
-**IoT Dashboard** - Real-time UI for monitoring and data visualization
+### facial-recognition-pipeline
+A complete pipeline for facial recognition tasks.
 
-**AuthKit** - Comprehensive authentication system with secure protocols
 
-## 💡 Core Competencies
+## Core Competencies
 - Full-stack web application development
 - Modern frontend frameworks & component architecture
 - Responsive & accessible design (WCAG 2.1 compliance)
@@ -71,7 +67,7 @@ Core Web Vitals • Lighthouse Optimization • SSR/SSG • Query Optimization �
 - Code review and mentoring junior developers
 - Agile & Scrum methodologies
 
-## 📫 Let's Connect
+## Let's Connect
 - **Email:** aysheraleeyu1@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/aisha-aliyu-dev
 - **Portfolio:** https://humairah.netlify.app
@@ -79,4 +75,4 @@ Core Web Vitals • Lighthouse Optimization • SSR/SSG • Query Optimization �
 
 ---
 
-*Open to collaboration, freelance opportunities, and exciting tech projects! 🚀*
+*Open to collaboration, freelance and remote opportunities, and exciting tech projects! *
