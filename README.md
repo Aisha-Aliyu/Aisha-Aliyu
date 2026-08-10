@@ -1,22 +1,15 @@
-<h1 align="center">Hi, I'm Aisha</h1>
+# Hi, I'm Aisha
 
-<p align="center">
-  Full Stack Engineer · TypeScript · React · Next.js · Node.js · Python · FastAPI
-  <br/>
-  Based in Rotterdam, Netherlands · Open to roles in the NL, the EU, and remote
-</p>
+Full Stack Engineer · TypeScript · Javascript · React · Next.js · Node.js · Python · FastAPI
+Nigeria · NYSC service year 2026 · Open to roles in Nigeria and remote
 
-<p align="center">
-  <a href="https://linkedin.com/in/aisha-aliyu-tech">LinkedIn</a> ·
-  <a href="https://humairah.netlify.app">Portfolio</a> ·
-  <a href="mailto:aysheraleeyu1@gmail.com">Email</a>
-</p>
+[Portfolio](https://humairah.netlify.app) · [Email](mailto:aysheraleeyu1@gmail.com)
 
 ---
 
 ## About
 
-Six years building web applications for clients across Africa, Europe and North America. I recently moved to Rotterdam and I'm looking for a full-time engineering role here or elsewhere in the EU.
+Four years building web applications for clients across Africa, Europe and North America. I graduated with First Class Honours in Software Engineering in 2025, CGPA 3.52/4.00, and I'm currently serving my NYSC year.
 
 Most of my work is TypeScript on the front end with Node or FastAPI behind it and PostgreSQL underneath. The project I'm proudest of is a learning platform used by more than 300 students. I rebuilt the React component architecture, cut initial page load with code splitting and lazy loading, and brought the interface up to WCAG 2.1 so students using screen readers could actually get through a lesson.
 
@@ -26,7 +19,7 @@ Right now I'm building Bloodline, where I design AI systems for Hausa oral story
 
 I'm also working on FaceVault, a facial recognition pipeline built with FastAPI, TensorFlow, DeepFace and Next.js.
 
-First Class Honours in Software Engineering, CGPA 3.52/4.0. And I build games and 3D environments in Unreal Engine 5 when I get the chance.
+And I build games and 3D environments in Unreal Engine 5 when I get the chance.
 
 ---
 
@@ -73,28 +66,37 @@ Cloud and DevOps
 ## Projects
 
 | Project | What it does | Stack |
-|--------|-------------|-------|
-| [AuthKit](https://github.com/Aisha-Aliyu/Authkit) | Auth system with JWT rotation, OAuth 2.0, TOTP 2FA, role based access control and Redis session management | Node.js, PostgreSQL, Redis |
+| --- | --- | --- |
+| [AuthKit](https://github.com/Aisha-Aliyu/AuthKit) | Auth system with JWT rotation, OAuth 2.0, TOTP 2FA, role based access control and Redis session management | Node.js, PostgreSQL, Redis |
 | [DRIFT](https://github.com/Aisha-Aliyu/drift-browser-shell) | Browser inside a browser: multi-tab management, bookmarks, history and cross-device sync | Next.js, TypeScript, Clerk, PostgreSQL |
 | [STRATUM](https://github.com/Aisha-Aliyu/iot-dashboard) | Live dashboard streaming 16 simulated sensors over WebSockets. I wrote the simulation engine and the hand-built SVG floor map with a three tier alert centre | React, WebSockets, PostgreSQL |
 | [Chillax](https://github.com/Aisha-Aliyu/chillax) | Social platform with real-time messaging and live notifications | React, Node.js, Socket.io, MongoDB |
 | [Buddy AI](https://github.com/Aisha-Aliyu/buddy-app) | Mental wellness PWA with mood tracking and sentiment analysis. My final year capstone, graded A+ | JavaScript, NLP, MongoDB |
 | [Cocoa WebCam Studio](https://github.com/Aisha-Aliyu/Webcam) | Webcam app with real-time filters at 60fps, recording and gallery management | Python, FastAPI, Canvas API, WebRTC |
+| [FaceVault](https://github.com/Aisha-Aliyu/facial-recognition-pipeline-) | Facial recognition pipeline with deep learning, from detection through to embedding and matching | FastAPI, TensorFlow, DeepFace, Next.js |
+| [Street Kings: Drift Wars](https://github.com/Aisha-Aliyu/StreetKings-DriftWars) | Racing prototype with a custom physics and control system | Unreal Engine 5 |
+
+---
+
+## Experience
+
+Frontend Developer, iLearn Tech Hub — Sep 2024 to Aug 2025
+Freelance Frontend and Full Stack Developer — Jan 2023 to present, 15+ client projects
+Industrial Training (SIWES), National Centre for Artificial Intelligence and Robotics (NCAIR), NITDA — Feb 2023 to Jul 2023, graded A
+Software Development Intern, Amana Solutions and Technologies — 2022, two months, remote
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aisha-Aliyu&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aisha-Aliyu&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Aisha-Aliyu&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisha-Aliyu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## Get in touch
 
-I'm in Rotterdam and open to full-time engineering work, on-site, hybrid or remote. Happy to talk about frontend, full stack, or anything involving AI and language.
+I'm in Nigeria, serving my NYSC year, and open to engineering work on-site or remote. Happy to talk about frontend, full stack, or anything involving AI and language.
 
-- [aysheraleeyu1@gmail.com](mailto:aysheraleeyu1@gmail.com)
-- [linkedin.com/in/aisha-aliyu-tech](https://linkedin.com/in/aisha-aliyu-tech)
+- aysheraleeyu1@gmail.com
+- [humairah.netlify.app](https://humairah.netlify.app)
