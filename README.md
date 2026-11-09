@@ -1,7 +1,8 @@
 # Hi, I'm Aisha
 
-Full Stack Engineer · TypeScript · Javascript · React · Next.js · Node.js · Python · FastAPI
-Nigeria · NYSC service year 2026 · Open to roles worldwide 
+Full Stack Engineer · TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI
+
+Nigeria · NYSC service year 2026 · Open to roles worldwide
 
 [Portfolio](https://humairah.netlify.app) · [Email](mailto:aysheraleeyu1@gmail.com)
 
@@ -9,17 +10,17 @@ Nigeria · NYSC service year 2026 · Open to roles worldwide
 
 ## About
 
-Four years building web applications for clients across Africa, Europe and North America. I graduated with First Class Honours in Software Engineering in 2025, CGPA 3.52/4.00, and I'm currently serving my NYSC year.
+Four years building web applications, as a freelancer and as a frontend developer at iLearn Tech Hub. I graduated with First Class Honours in Software Engineering in 2025, CGPA 3.52/4.00, and I'm currently serving my NYSC year.
 
 Most of my work is TypeScript on the front end with Node or FastAPI behind it and PostgreSQL underneath. The project I'm proudest of is a learning platform used by more than 300 students. I rebuilt the React component architecture, cut initial page load with code splitting and lazy loading, and brought the interface up to WCAG 2.1 so students using screen readers could actually get through a lesson.
 
 What I care about: code that still makes sense six months later, and pages that load on a bad connection.
 
-Right now I'm building Bloodline, where I design AI systems for Nigerian Languages oral storytelling. The current project turns folktales into narrated animated shorts. It runs on a multi-agent LLM pipeline with retrieval augmented generation for story context, and cloned voices carry the narration in both Hausa and English. Python handles the services, React the interface. I pick the stack, write the code, and take prototypes from idea to working demo without an engineering team behind me.
+Right now I'm building Bloodline Africa, an early-stage AI, robotics and immersive media venture centered on African cultural computing. Its first product, CodeRegente, is a gamified coding platform that teaches people in their own languages. I'm building it with Next.js, TypeScript and Supabase. I pick the stack, write the code, and take prototypes from idea to working demo without an engineering team behind me.
 
 I'm also working on FaceVault, a facial recognition pipeline built with FastAPI, TensorFlow, DeepFace and Next.js.
 
-And I build games and 3D environments in Unreal Engine 5 when I get the chance.
+I work in Unreal Engine 5 with Blueprints and I'm learning C++. Next up is Street Kings: Drift Wars, a street racing and drift game set in Lagos.
 
 ---
 
@@ -74,23 +75,16 @@ Cloud and DevOps
 | [Buddy AI](https://github.com/Aisha-Aliyu/buddy-app) | Mental wellness PWA with mood tracking and sentiment analysis. My final year capstone, graded A+ | JavaScript, NLP, MongoDB |
 | [Cocoa WebCam Studio](https://github.com/Aisha-Aliyu/Webcam) | Webcam app with real-time filters at 60fps, recording and gallery management | Python, FastAPI, Canvas API, WebRTC |
 | [FaceVault](https://github.com/Aisha-Aliyu/facial-recognition-pipeline-) | Facial recognition pipeline with deep learning, from detection through to embedding and matching | FastAPI, TensorFlow, DeepFace, Next.js |
-| [Street Kings: Drift Wars](https://github.com/Aisha-Aliyu/StreetKings-DriftWars) | Racing prototype with a custom physics and control system | Unreal Engine 5 |
+| [Street Kings: Drift Wars](https://github.com/Aisha-Aliyu/StreetKings-DriftWars) | Street racing and drift game set in Lagos, in pre-production | Unreal Engine 5 |
 
 ---
 
 ## Experience
 
-Frontend Developer, iLearn Tech Hub — Sep 2024 to Aug 2025
-Freelance Frontend and Full Stack Developer — Jan 2023 to present, 15+ client projects
-Industrial Training (SIWES), National Centre for Artificial Intelligence and Robotics (NCAIR), NITDA — Feb 2023 to Jul 2023, graded A
-Software Development Intern, Amana Solutions and Technologies — 2022, two months, remote
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Aisha-Aliyu&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisha-Aliyu&layout=compact&theme=tokyonight&hide_border=true)
+- Frontend Developer, iLearn Tech Hub · Sep 2024 to Aug 2025
+- Freelance Frontend and Full Stack Developer · Jan 2023 to present
+- Industrial Training (SIWES), National Centre for Artificial Intelligence and Robotics (NCAIR), NITDA · Mar 2024 to Jul 2024, graded A
+- Software Development Intern, Amana Solutions and Technologies · Jul 2022 to Nov 2022, remote
 
 ---
 
