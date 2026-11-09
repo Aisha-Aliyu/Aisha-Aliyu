@@ -1,7 +1,7 @@
 # Hi, I'm Aisha
 
 Full Stack Engineer · TypeScript · Javascript · React · Next.js · Node.js · Python · FastAPI
-Nigeria · NYSC service year 2026 · Open to roles in Nigeria and remote
+Nigeria · NYSC service year 2026 · Open to roles worldwide 
 
 [Portfolio](https://humairah.netlify.app) · [Email](mailto:aysheraleeyu1@gmail.com)
 
@@ -15,7 +15,7 @@ Most of my work is TypeScript on the front end with Node or FastAPI behind it an
 
 What I care about: code that still makes sense six months later, and pages that load on a bad connection.
 
-Right now I'm building Bloodline, where I design AI systems for Hausa oral storytelling. The current project turns folktales into narrated animated shorts. It runs on a multi-agent LLM pipeline with retrieval augmented generation for story context, and cloned voices carry the narration in both Hausa and English. Python handles the services, React the interface. I pick the stack, write the code, and take prototypes from idea to working demo without an engineering team behind me.
+Right now I'm building Bloodline, where I design AI systems for Nigerian Languages oral storytelling. The current project turns folktales into narrated animated shorts. It runs on a multi-agent LLM pipeline with retrieval augmented generation for story context, and cloned voices carry the narration in both Hausa and English. Python handles the services, React the interface. I pick the stack, write the code, and take prototypes from idea to working demo without an engineering team behind me.
 
 I'm also working on FaceVault, a facial recognition pipeline built with FastAPI, TensorFlow, DeepFace and Next.js.
 
